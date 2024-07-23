@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+    font-size: 40px;
+    width: 700px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 350px;
+}
+
+.app-root{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 30px 20px 30px;
+}
+
+.cover{
+    /*width: 1000px;*/
+}
+
+.info{
+    margin-left: 40px;
+}
+
+
+
+.tags{
+    color: #767979;
+    font-size: 15px;
+}
+
+.author-link{
+    color: #007185;
+    font-size: 15px;
+}
+
+.rating-img{
+    width: 130px;
+}
+
+.description{
+    width: 60%;
+}
